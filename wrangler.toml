@@ -37,7 +37,7 @@ binding = "AI"
 # Bind a D1 database. D1 is Cloudflare’s native serverless SQL database.
 # Docs: https://developers.cloudflare.com/workers/wrangler/configuration/#d1-databases
 [[d1_databases]]
-name = "data"
+name = "findjob"
 binding = "DB"
 database_id = "18b4fb58-2826-470f-82f5-562d8f6f6c1b"
 
